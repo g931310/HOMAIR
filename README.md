@@ -71,6 +71,11 @@ No individual-level MJ Health Database data or trained model objects are distrib
 
 Please cite the associated peer-reviewed article once final bibliographic information is available.
 
-## Copyright and reuse
+## License
 
-No permissive open-source license is granted. See `NOTICE.md`.
+This repository is licensed under the Apache License 2.0.
+See the LICENSE file for details.
+
+The license applies only to the code and synthetic/example materials
+distributed in this repository. It does not grant access to or rights
+over the MJ Health Database or any participant-level data.
